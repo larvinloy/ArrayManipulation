@@ -1,0 +1,10 @@
+C:\dev\ArrayManipulation\ArrayManipulation\bin\Debug\netcoreapp2.0\ArrayManipulation.deps.json
+C:\dev\ArrayManipulation\ArrayManipulation\bin\Debug\netcoreapp2.0\ArrayManipulation.runtimeconfig.json
+C:\dev\ArrayManipulation\ArrayManipulation\bin\Debug\netcoreapp2.0\ArrayManipulation.runtimeconfig.dev.json
+C:\dev\ArrayManipulation\ArrayManipulation\bin\Debug\netcoreapp2.0\ArrayManipulation.dll
+C:\dev\ArrayManipulation\ArrayManipulation\bin\Debug\netcoreapp2.0\ArrayManipulation.pdb
+C:\dev\ArrayManipulation\ArrayManipulation\obj\Debug\netcoreapp2.0\ArrayManipulation.csproj.CoreCompileInputs.cache
+C:\dev\ArrayManipulation\ArrayManipulation\obj\Debug\netcoreapp2.0\ArrayManipulation.AssemblyInfoInputs.cache
+C:\dev\ArrayManipulation\ArrayManipulation\obj\Debug\netcoreapp2.0\ArrayManipulation.AssemblyInfo.cs
+C:\dev\ArrayManipulation\ArrayManipulation\obj\Debug\netcoreapp2.0\ArrayManipulation.dll
+C:\dev\ArrayManipulation\ArrayManipulation\obj\Debug\netcoreapp2.0\ArrayManipulation.pdb
